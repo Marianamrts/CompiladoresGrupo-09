@@ -5,13 +5,13 @@ Planejado × entregue, por sprint. Atualizar ao final de cada sprint (exigência
 ## Sprint 1 — Ambiente, linguagem e léxico
 
 **Planejado:**
-- Confirmar escopo por escrito em `docs/definicao-da-linguagem.md`
-- Desenhar gramática em alto nível, definir tokens
-- Criar repositório com estrutura `docs/` + `src/`
-- Configurar ambiente em todas as máquinas
-- Designar o líder para os formulários
-- Iniciar `scanner.l` em par (P1 + P5); primeiros testes de tokens
-- Fechar `scanner.l` completo (tokens, reservadas, literais, erro léxico básico), testado com `flex`/`gcc -lfl`
+- [ ] Confirmar escopo por escrito em `docs/definicao-da-linguagem.md`
+- [ ] Desenhar gramática em alto nível, definir tokens
+- [ ] Criar repositório com estrutura `docs/` + `src/`
+- [ ] Configurar ambiente em todas as máquinas
+- [ ] Designar o líder para os formulários
+- [ ] Iniciar `scanner.l` em par (P1 + P5); primeiros testes de tokens
+- [ ] Fechar `scanner.l` completo (tokens, reservadas, literais, erro léxico básico), testado com `flex`/`gcc -lfl`
 
 **Entregue:** _(preencher ao final da sprint)_
 
